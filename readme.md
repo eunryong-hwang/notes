@@ -1,3 +1,3 @@
 # quick notes
 
-this is my notes that quick note anything somewhere.
+this is my notes that quick memo anything somewhere.
